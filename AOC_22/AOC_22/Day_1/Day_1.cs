@@ -6,7 +6,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Day_1
+namespace AOC_22.Day_1
 {
 
     public class solution
