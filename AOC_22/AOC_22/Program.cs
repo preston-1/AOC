@@ -11,7 +11,7 @@ Console.WriteLine(final);
 */
 
 //day two part 1
-
-var res = new Day_2();
+bool part1 = false;
+var res = new Day_2(part1);
 var final = res.result;
 Console.WriteLine(final);
