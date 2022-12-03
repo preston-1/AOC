@@ -26,7 +26,6 @@ namespace AOC_22.Day_3
                     break;
                 }
             }
-            Console.WriteLine(rval);
             return rval;
         }
 
