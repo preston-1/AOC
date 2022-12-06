@@ -3,7 +3,7 @@ using AOC_22.Day_2;
 using AOC_22.Day_3;
 using AOC_22.Day_4;
 using AOC_22.Day_5;
-
+using AOC_22.Day_6;
 //day one part 1 & 2
 
 /*
@@ -42,7 +42,18 @@ Console.WriteLine(final);
 
 //day five part 1 & 2
 
+/*
 bool part1 = false;
 var res = new Day_5(part1);
 var final = res.result;
 Console.WriteLine(final);
+*/
+
+//day six part 1 & 2
+
+
+bool part1 = false;
+var res = new Day_6(part1);
+var final = res.result;
+Console.WriteLine(final);
+
