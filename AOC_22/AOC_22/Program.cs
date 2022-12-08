@@ -5,6 +5,8 @@ using AOC_22.Day_4;
 using AOC_22.Day_5;
 using AOC_22.Day_6;
 using AOC_22.Day_7;
+using AOC_22.Day_8;
+
 //day one part 1 & 2
 
 /*
@@ -61,8 +63,17 @@ Console.WriteLine(final);
 
 //day seven part 1 & 2
 
-
+/*
 bool part1 = false;
 var res = new Day_7(part1);
+var final = res.result;
+Console.WriteLine(final);
+*/
+
+//day eight part 1 & 2
+
+
+bool part1 = false;
+var res = new Day_8(part1);
 var final = res.result;
 Console.WriteLine(final);
