@@ -1,0 +1,21 @@
+﻿$ cd /
+$ ls
+dir a
+50000 b.txt
+dir b
+$ cd b
+$ ls
+40000 a.txt
+dir c
+$ cd c
+40000 a.txt
+20000 b.txt 
+$ cd /
+$ cd a
+$ ls
+40000 a.txt
+dir d
+$ cd d
+$ ls
+40000 a.txt
+30000 b.txt
